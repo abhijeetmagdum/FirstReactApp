@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello LMS Team
+          Hello LMS Team ...   
         </a>
       </header>
     </div>
